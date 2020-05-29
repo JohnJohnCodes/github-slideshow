@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I just want to finish this lesson so I can publish my site.
+
 Use the left arrow to go back!
